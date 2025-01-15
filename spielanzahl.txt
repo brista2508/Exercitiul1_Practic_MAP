@@ -1,0 +1,10 @@
+München%4
+Berlin%3
+Düsseldorf%3
+Frankfurt%3
+Gelsenkirchen%3
+Hamburg%3
+Köln%3
+Leipzig%3
+Stuttgart%3
+Hannover%2
